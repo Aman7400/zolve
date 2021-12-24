@@ -1,13 +1,19 @@
 import React from "react";
 import styled from "styled-components";
+import Btn1 from "../Button/Btn1";
 
 const Wrapper = styled.nav`
-  background-color: #04041f;
+  background-color: var(--dark-blue);
   padding: 2rem 6rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: var(--desktop-nav);
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 `;
 
 const Logo = styled.section`
@@ -51,7 +57,8 @@ const Navbar = () => {
         <li>Help</li>
         <li>Learn</li>
         <li>Login</li>
-        <li>Get Started</li>
+        {/* <li>Get Started</li> */}
+        <Btn1 title="Get Started" size="md" />
       </NavMenu>
     </Wrapper>
   );

@@ -7,7 +7,8 @@
 
 :root {
   /* Colors */
-  --dark-blue: #04041f;
+  --dark-blue: #171923;
+  --light-grey: #9ca0b0;
   /* Measurements */
   --desktop-nav: 120px;
 }
@@ -17,6 +18,11 @@ body {
 }
 
 /* Util Classes */
+/* Responsive Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
 /* Fonts */
 .heading-text {
   font-size: 60px;
@@ -25,6 +31,10 @@ body {
 .subheading-text {
   font-size: 22px;
   line-height: 32px;
+  font-weight: 400;
+}
+.cta-btn {
+  font-size: 20px;
 }
 .nav-link {
   font-size: 16px;
@@ -35,4 +45,19 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+/* CTA btn */
+.cta-btn-lg {
+  padding: 1.5rem 2rem;
+  width: 275px;
+  font-size: 20px;
+  border-radius: 15px;
+}
+.cta-btn-md {
+  padding: 1rem;
+  width: 170px;
+  max-width: 200px;
+  font-size: 16px;
+  border-radius: 10px;
 }

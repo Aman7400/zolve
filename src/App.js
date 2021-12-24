@@ -1,4 +1,5 @@
 import Navbar from "./components/Navbar/Navbar";
+import Hero from "./sections/Hero/Hero";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <Navbar />
       {/* Need Help Button */}
       {/* Hero */}
+      <Hero />
       {/* Subscribe */}
       {/*  */}
     </p>
