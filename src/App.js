@@ -2,12 +2,13 @@ import Navbar from "./components/Navbar/Navbar";
 import Account from "./sections/Account/Account";
 import GivingDream from "./sections/GivingDream/GivingDream";
 import Hero from "./sections/Hero/Hero";
+import Rewards from "./sections/Rewards/Rewards";
 import StayUpdate from "./sections/StayUpdated/StayUpdate";
 import Tailor from "./sections/Tailor/Tailor";
 
 function App() {
   return (
-    <p>
+    <>
       {/* Navbar */}
       <Navbar />
       {/* Need Help Button */}
@@ -21,7 +22,9 @@ function App() {
       <GivingDream />
       {/* Account */}
       <Account />
-    </p>
+      {/* Rewards */}
+      <Rewards />
+    </>
   );
 }
 
