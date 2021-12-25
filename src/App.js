@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./sections/Hero/Hero";
 import StayUpdate from "./sections/StayUpdated/StayUpdate";
+import Tailor from "./sections/Tailor/Tailor";
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       <Hero />
       {/* Stay Update */}
       <StayUpdate />
-      {/*  */}
+      {/* Tailor */}
+      <Tailor />
     </p>
   );
 }

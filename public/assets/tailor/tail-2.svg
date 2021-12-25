@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="44px" viewBox="0 0 42 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tail-2</title>
+    <g id="New-Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Landing/Home" transform="translate(-744.000000, -1388.000000)" stroke-width="2">
+            <g id="Group-63" transform="translate(0.000000, 931.000000)">
+                <g id="Group-42" transform="translate(286.000000, 381.000000)">
+                    <g id="Group-28-Copy" transform="translate(457.000000, 77.000000)">
+                        <g id="tail-2" transform="translate(2.000000, 0.000000)">
+                            <path d="M15.7721095,29 C10.7966948,29.0003814 6.61554565,25.3657865 6.06141836,20.5586773 C5.50729107,15.7515682 8.75717089,11.3073098 13.6092427,10.2369166 C18.4613145,9.16652338 23.3658527,11.8118732 25,16.3807241" id="Path" stroke="#000000"></path>
+                            <polyline id="Path" stroke="#000000" points="20 22 15 22 15 15"></polyline>
+                            <path d="M14.3181817,42 L3.18181815,42 C1.42454851,42 0,40.5535353 0,38.7692308 L0,3.23076923 C0,1.44646465 1.42454851,0 3.18181815,0 L25.7281816,0 C26.5717679,0.000754070326 27.3805322,0.341632362 27.9766664,0.947692308 L34.0687876,7.13138462 C34.6654065,7.73757055 35.0003821,8.55961355 35,9.41661538 L35,14.5384615" id="Path" stroke="#000000"></path>
+                            <g id="streamline-icon-road-sign-banned@140x140" transform="translate(25.000000, 27.000000)">
+                                <path d="M0,7.5 C0,11.6421356 3.35786438,15 7.5,15 C11.6421356,15 15,11.6421356 15,7.5 C15,3.35786438 11.6421356,0 7.5,0 C3.35786438,0 0,3.35786438 0,7.5 Z" id="Path" stroke="#202020" fill="#FF6633"></path>
+                                <path d="M0,7.5 C0,11.6421356 3.35786438,15 7.5,15 C11.6421356,15 15,11.6421356 15,7.5 C15,3.35786438 11.6421356,0 7.5,0 C3.35786438,0 0,3.35786438 0,7.5 Z" id="Path" stroke="#202020"></path>
+                                <line x1="2.90816327" y1="2.90816327" x2="12.8571429" y2="12.8571429" id="Path" stroke="#000000"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
