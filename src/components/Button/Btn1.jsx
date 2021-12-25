@@ -5,7 +5,7 @@ import { BsArrowUpRight } from "react-icons/bs";
 const Wrapper = styled.a`
   text-decoration: none;
   color: #fff;
-  background-image: linear-gradient(96deg, #fc6076 0%, #ff9a44 100%);
+  background: linear-gradient(96deg, #fc6076 0%, #ff9a44 100%);
   display: flex;
   justify-content: space-between;
   cursor: pointer;

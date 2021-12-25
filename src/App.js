@@ -1,4 +1,5 @@
 import Navbar from "./components/Navbar/Navbar";
+import Account from "./sections/Account/Account";
 import GivingDream from "./sections/GivingDream/GivingDream";
 import Hero from "./sections/Hero/Hero";
 import StayUpdate from "./sections/StayUpdated/StayUpdate";
@@ -18,6 +19,8 @@ function App() {
       <Tailor />
       {/* Giving Your Dream */}
       <GivingDream />
+      {/* Account */}
+      <Account />
     </p>
   );
 }
