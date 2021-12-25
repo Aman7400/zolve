@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar/Navbar";
 import Account from "./sections/Account/Account";
+import Brands from "./sections/Brands/Brands";
 import GivingDream from "./sections/GivingDream/GivingDream";
 import Hero from "./sections/Hero/Hero";
 import Rewards from "./sections/Rewards/Rewards";
@@ -24,6 +25,8 @@ function App() {
       <Account />
       {/* Rewards */}
       <Rewards />
+      {/* Brands  */}
+      <Brands />
     </>
   );
 }
