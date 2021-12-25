@@ -5,6 +5,7 @@ import Btn1 from "../Button/Btn1";
 const Wrapper = styled.nav`
   background-color: var(--dark-blue);
   padding: 2rem 6rem;
+  z-index: 100;
   display: flex;
   justify-content: space-between;
   align-items: center;

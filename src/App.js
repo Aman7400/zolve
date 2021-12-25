@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./sections/Hero/Hero";
+import StayUpdate from "./sections/StayUpdated/StayUpdate";
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       {/* Need Help Button */}
       {/* Hero */}
       <Hero />
-      {/* Subscribe */}
+      {/* Stay Update */}
+      <StayUpdate />
       {/*  */}
     </p>
   );
