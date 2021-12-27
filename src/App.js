@@ -3,6 +3,7 @@ import Account from "./sections/Account/Account";
 import Brands from "./sections/Brands/Brands";
 import GivingDream from "./sections/GivingDream/GivingDream";
 import Hero from "./sections/Hero/Hero";
+import Investors from "./sections/Investors/Investors";
 import Money from "./sections/Money/Money";
 import Rewards from "./sections/Rewards/Rewards";
 import SafeNSecure from "./sections/SafeNSecure/SafeNSecure";
@@ -36,6 +37,8 @@ function App() {
       <Money />
       {/* Safe n Secure */}
       <SafeNSecure />
+      {/* Investors */}
+      <Investors />
     </>
   );
 }
