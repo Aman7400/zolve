@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Account from "./sections/Account/Account";
 import Brands from "./sections/Brands/Brands";
 import GivingDream from "./sections/GivingDream/GivingDream";
+import Harness from "./sections/Harness/Harness";
 import Hero from "./sections/Hero/Hero";
 import Investors from "./sections/Investors/Investors";
 import Money from "./sections/Money/Money";
@@ -39,6 +40,8 @@ function App() {
       <SafeNSecure />
       {/* Investors */}
       <Investors />
+      {/* Harness */}
+      <Harness />
     </>
   );
 }
