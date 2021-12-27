@@ -6,6 +6,7 @@ import Hero from "./sections/Hero/Hero";
 import Rewards from "./sections/Rewards/Rewards";
 import StayUpdate from "./sections/StayUpdated/StayUpdate";
 import Tailor from "./sections/Tailor/Tailor";
+import Testimonial from "./sections/Testimonials/Testimonial";
 
 function App() {
   return (
@@ -27,6 +28,8 @@ function App() {
       <Rewards />
       {/* Brands  */}
       <Brands />
+      {/* Testimonial */}
+      <Testimonial />
     </>
   );
 }
