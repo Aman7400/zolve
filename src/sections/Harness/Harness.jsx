@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { GrSubtract } from "react-icons/gr";
 
 const Wrapper = styled.div`
-  padding: 10rem 8rem;
+  padding: 10rem 8rem 5rem;
   background-color: #f0f5f5;
 `;
 

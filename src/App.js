@@ -11,6 +11,7 @@ import SafeNSecure from "./sections/SafeNSecure/SafeNSecure";
 import StayUpdate from "./sections/StayUpdated/StayUpdate";
 import Tailor from "./sections/Tailor/Tailor";
 import Testimonial from "./sections/Testimonials/Testimonial";
+import WhatsNew from "./sections/WhatsNew/WhatsNew";
 
 function App() {
   return (
@@ -42,6 +43,9 @@ function App() {
       <Investors />
       {/* Harness */}
       <Harness />
+      {/* FAQs */}
+      {/* What's New */}
+      <WhatsNew />
     </>
   );
 }
