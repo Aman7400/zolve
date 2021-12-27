@@ -12,6 +12,7 @@ const Heading = styled.section`
   h1 {
     font-size: 50px;
     color: #e83c41;
+    margin-bottom: 1rem;
     line-height: 70px;
     letter-spacing: 0px;
     font-weight: 700;
