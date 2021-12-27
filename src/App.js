@@ -3,6 +3,7 @@ import Account from "./sections/Account/Account";
 import Brands from "./sections/Brands/Brands";
 import GivingDream from "./sections/GivingDream/GivingDream";
 import Hero from "./sections/Hero/Hero";
+import Money from "./sections/Money/Money";
 import Rewards from "./sections/Rewards/Rewards";
 import StayUpdate from "./sections/StayUpdated/StayUpdate";
 import Tailor from "./sections/Tailor/Tailor";
@@ -30,6 +31,8 @@ function App() {
       <Brands />
       {/* Testimonial */}
       <Testimonial />
+      {/* Money at Fingertips */}
+      <Money />
     </>
   );
 }
