@@ -5,6 +5,7 @@ import GivingDream from "./sections/GivingDream/GivingDream";
 import Hero from "./sections/Hero/Hero";
 import Money from "./sections/Money/Money";
 import Rewards from "./sections/Rewards/Rewards";
+import SafeNSecure from "./sections/SafeNSecure/SafeNSecure";
 import StayUpdate from "./sections/StayUpdated/StayUpdate";
 import Tailor from "./sections/Tailor/Tailor";
 import Testimonial from "./sections/Testimonials/Testimonial";
@@ -33,6 +34,8 @@ function App() {
       <Testimonial />
       {/* Money at Fingertips */}
       <Money />
+      {/* Safe n Secure */}
+      <SafeNSecure />
     </>
   );
 }
